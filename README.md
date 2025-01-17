@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitesh-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="mitesh-ingle" /> </p>
 
 - 🔭 I’m currently working on **Ipl_Management_System mvc Integration, Hospital Management System**
-- 🌱 I’m currently learning **hibernate , Spring framework , Advance java , Rest_Api , Full stack java development, jsp , servlet , MySql , Generative AI , Vertex AI, Machine Learning ,**
+- 🌱 I’m currently learning **hibernate , Spring framework , Advance java , Rest_Api , Full stack java development, jsp , servlet , MySql , Generative AI , Vertex AI, Machine Learning**
 - 📫 How to reach me **inglemitesh07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
